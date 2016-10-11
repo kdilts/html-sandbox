@@ -24,6 +24,7 @@
 					qui officia deserunt mollit anim id est laborum.</p>
 				<img src="img/cat.jpg" alt="This is supposed to be a cat!"/>
 			</section>
+			<hr/>
 
 			<!-- begin section 2 -->
 			<section>
@@ -34,6 +35,7 @@
 					<li>food</li>
 				</ul>
 			</section>
+			<hr/>
 
 			<!-- begin section 3 -->
 			<section>

@@ -3,9 +3,7 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>HTML Sandbox</title>
-		<style>
-			td, th, table { border: 2px solid black; }
-		</style>
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css"/>
 	</head>
 	<body>
 

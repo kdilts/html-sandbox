@@ -3,6 +3,9 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>HTML Sandbox</title>
+		<style>
+			td, th, table { border: 2px solid black; }
+		</style>
 	</head>
 	<body>
 
@@ -24,8 +27,37 @@
 				<img src="img/cat.jpg" alt="This is supposed to be a cat!"/>
 			</section>
 
-			<section></section>
-			<section></section>
+			<!-- begin section 2 -->
+			<section>
+				<h2>my favorite things</h2>
+				<ul>
+					<li>beer</li>
+					<li>sleep</li>
+					<li>food</li>
+				</ul>
+			</section>
+
+			<!-- begin section 3 -->
+			<section>
+				<table>
+					<tr>
+						<th>heading 1</th>
+						<th>heading 2</th>
+					</tr>
+					<tr>
+						<td>a</td>
+						<td>b</td>
+					</tr>
+					<tr>
+						<td>c</td>
+						<td>d</td>
+					</tr>
+					<tr>
+						<td>e</td>
+						<td>f</td>
+					</tr>
+				</table>
+			</section>
 		</main>
 
 	</body>
